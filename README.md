@@ -1,6 +1,6 @@
 # NBA Draft and Salaries Dashboard
 
-For this applicaton I decided to do a deep-dive into data concerning NBA drafts, salaries, and colleges. 
+This applicaton is a to do a deep-dive into data concerning NBA drafts, salaries, and colleges. 
 Combining two data sets, [NBA Player Salaries](https://data.world/datadavis/nba-salaries) & [NBA Player Stats](https://www.kaggle.com/drgilermo/nba-players-stats), I was abble to create a unified dataset to work with.
 
 Using Google's Geo-coding API to get the coordinates of all the colleges, Python for data manipulation, cleaning and transformation, and used SQL to store our data. 
