@@ -9,6 +9,8 @@ HTML/CSS, Javascript, D3, Leaflet, and Plotly were used to create dynamic and in
 
 For the application to fully work, I kindly request that you use your own Mapbox API KEY for the file [config.js](Basketball-dashboard/static/js/config.js), since I omited mine. 
 
+You can see the Webapp on this [link](https://jcosta16.github.io/Basketball/)
+
 ## Application Screenshot
 
 ![img/dashboard.png](img/dashboard.png)
