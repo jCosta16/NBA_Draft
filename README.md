@@ -7,9 +7,8 @@ Using Google's Geo-coding API to get the coordinates of all the colleges, Python
 
 To deploy the application HTML/CSS, Javascript, D3, Leaflet, and Plotly where used to create dynamic and interactive data visualizations. 
 
-For this to fully work, I ask you to use your own Mapbox API KEY, since I uploaded my config.js in a git ignore. 
+For this to fully work, I ask you to use your own Mapbox API KEY on the file [config.js](NBA_Draft_Dashboard/Basketball-dashboard/static/js/config.js) , since I omited mine. 
 
 ## Application Images
 
-fdsfsafafsd
-
+![NBA_Draft_Dashboard/img/dashboard.png](NBA_Draft_Dashboard/img/dashboard.png)
