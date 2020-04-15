@@ -9,6 +9,6 @@ HTML/CSS, Javascript, D3, Leaflet, and Plotly were used to create dynamic and in
 
 For the application to fully work, I kindly request that you use your own Mapbox API KEY for the file [config.js](NBA_Draft_Dashboard/Basketball-dashboard/static/js/config.js), since I omited mine. 
 
-## Application Images
+## Application Screenshot
 
 ![img/dashboard.png](img/dashboard.png)
