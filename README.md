@@ -7,7 +7,7 @@ I used Google's Geo-coding API to get the coordinates of all the colleges, Pytho
 
 HTML/CSS, Javascript, D3, Leaflet, and Plotly were used to create dynamic and interactive data visualizations. 
 
-For the application to fully work, I kindly request that you use your own Mapbox API KEY for the file [config.js](NBA_Draft_Dashboard/Basketball-dashboard/static/js/config.js), since I omited mine. 
+For the application to fully work, I kindly request that you use your own Mapbox API KEY for the file [config.js](Basketball-dashboard/static/js/config.js), since I omited mine. 
 
 ## Application Screenshot
 
