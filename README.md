@@ -11,6 +11,17 @@ For the application to fully work, I kindly request that you use your own Mapbox
 
 You can see the Webapp on this [link](https://jcosta16.github.io/Basketball/)
 
+## Applied Technologies
+* HTML/CSS
+* JavaScript
+  - D3
+  - Leaflet
+  - Plotly
+* Python
+* JSON
+* Google Maps API
+* SQL
+
 ## Application Screenshot
 
 ![img/dashboard.png](img/dashboard.png)
